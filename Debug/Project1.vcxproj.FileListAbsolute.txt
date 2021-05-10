@@ -1,0 +1,4 @@
+F:\computer\codes\C_C++\project\Project1\Debug\电路实验.exe
+F:\computer\codes\C_C++\project\Project1\Debug\电路实验.pdb
+C:\Users\ASUS\Desktop\Project1\Project1\Debug\电路实验.exe
+C:\Users\ASUS\Desktop\Project1\Project1\Debug\电路实验.pdb
